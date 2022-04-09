@@ -1,0 +1,4 @@
+#Sat Apr 09 02:41:06 ICT 2022
+base.0=C\:\\belajar_stateful\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
